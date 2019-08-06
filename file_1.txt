@@ -1,3 +1,4 @@
+This makes four lines:
 This is for my class for git!
 I know a lot of BASH
 I didn't realize it was a virutal class...
